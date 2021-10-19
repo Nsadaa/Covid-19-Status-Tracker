@@ -19,5 +19,3 @@ This is a mini projects about Live Covid 19 data analysis &amp; interactive visu
 - Make copy of the Provied World Countries Geospatial Boundaries Shape files to your google cloud folder.
 - Copy file path ( WB_countries_Admin0_10m.shp llocated in above files copied location in you google drive ) to the geopandas as the path adress in Coid 19 Status Tracker with Interactive Visualuzations.ipynb.
 - Run Coid 19 Status Tracker with Interactive Visualuzations.ipynb in goole colab.
-
-
