@@ -1,4 +1,4 @@
-# Coid-19-Status-Tracker-with-Interactive-Visualuzations
+# Covid-19-Status-Tracker-with-Interactive-Visualuzations
 
 ![image](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/image_tp.jpg)
 
@@ -17,7 +17,33 @@ This is a mini projects about Live Covid 19 data analysis &amp; interactive visu
 ## How to Use
 
 ##### In Google Colaboratory ( Highly Recommend )
-- Make Copy of the Coid 19 Status Tracker with Interactive Visualuzations.ipynb to the google colaboratory
-- Make copy of the Provied World Countries Geospatial Boundaries Shape files to your google cloud folder.
-- Copy file path ( WB_countries_Admin0_10m.shp llocated in above files copied location in you google drive ) to the geopandas as the path adress in Coid 19 Status Tracker with Interactive Visualuzations.ipynb.
-- Run Coid 19 Status Tracker with Interactive Visualuzations.ipynb in goole colab.
+- Make Copy of the [Covid 19 Status Tracker with Interactive Visualuzations.ipynb](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Coid_19_Status_Tracker_with_Interactive_Visualuzations.ipynb) to the google colaboratory & open it ( do not run )
+- Download & extract the [Countries Geospatial Files.zip](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Countries%20Geospatial%20Files.zip) then Make copy of the files to your folder in google cloud .
+- Copy file path ( WB_countries_Admin0_10m.shp llocated in above files copied location in you google drive ) at paste the path to the below location in Covid the ope 19 Status Tracker with Interactive Visualuzations.ipynb which have opend in google Colaboratory
+
+![location](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/Screenshot%20(54).png)
+
+- Then Run Covid 19 Status Tracker with Interactive Visualuzations.ipynb in goole colab.
+
+## About The Data
+- Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
+
+## Sample Codes
+![sample_1](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/sp-1.png)
+![sample_2](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/sp-2.png)
+![sample_3](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/sp-3.png)
+
+
+## Technlogy & Tools Used
+- Python 
+- Google Colab
+
+## References
+
+ - https://ourworldindata.org/
+ - https://colab.research.google.com/
+ - https://www.python.org/
+ - https://plotly.com/python/
+ - https://datacatalog.worldbank.org/dataset/world-bank-official-boundaries
+ - https://github.com/owid/covid-19-data
+
