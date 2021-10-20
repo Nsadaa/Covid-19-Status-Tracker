@@ -1,5 +1,7 @@
 # Coid-19-Status-Tracker-with-Interactive-Visualuzations
 
+![image](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/image_tp.jpg)
+
 ## Introduction
 This is a mini projects about Live Covid 19 data analysis &amp; interactive visualization by using python in both global &amp; Sri Lanka's situation.In here mainly used plotly for interactive & creative data visualizations instead of usual matplotlib & seaborn libraries. In every time we run the notebook we can get updated data insights. ( *The live data source that we use in here is fully update the data after two days in each corresponding days* )
 
