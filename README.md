@@ -33,6 +33,10 @@ This is a mini projects about Live Covid 19 data analysis &amp; interactive visu
 ![sample_2](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/sp-2.png)
 ![sample_3](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/sp-3.png)
 
+## Sample Data Isights
+![figure_1](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/18.jpg)
+![figure_2](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/19.jpg)
+
 
 ## Technlogy & Tools Used
 - Python 
