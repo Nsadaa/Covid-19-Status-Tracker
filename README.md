@@ -1,4 +1,4 @@
-# Covid-19-Status-Tracker-with-Interactive-Visualuzations
+# Covid 19 Status Tracker with Interactive Visualuzations
 
 ![image](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/image_tp.jpg)
 
@@ -19,11 +19,11 @@ This is a mini projects about Live Covid 19 data analysis &amp; interactive visu
 ##### In Google Colaboratory ( Highly Recommend )
 - Make Copy of the [Covid 19 Status Tracker with Interactive Visualuzations.ipynb](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Coid_19_Status_Tracker_with_Interactive_Visualuzations.ipynb) to the google colaboratory & open it ( do not run )
 - Download & extract the [Countries Geospatial Files.zip](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Countries%20Geospatial%20Files.zip) then Make copy of the files to your folder in google cloud .
-- Copy file path ( WB_countries_Admin0_10m.shp llocated in above files copied location in you google drive ) at paste the path to the below location in Covid the ope 19 Status Tracker with Interactive Visualuzations.ipynb which have opend in google Colaboratory
+- Copy file path ( WB_countries_Admin0_10m.shp llocated in above files copied location in you google drive ) and paste the path to the below location in [Covid 19 Status Tracker with Interactive Visualuzations.ipynb](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Coid_19_Status_Tracker_with_Interactive_Visualuzations.ipynb) which have opend in google Colaboratory
 
 ![location](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Other%20Materials/Screenshot%20(54).png)
 
-- Then Run Covid 19 Status Tracker with Interactive Visualuzations.ipynb in goole colab.
+- Then Run [Covid 19 Status Tracker with Interactive Visualuzations.ipynb](https://github.com/Nsadaa/Coid-19-Status-Tracker-with-Interactive-Visualuzations/blob/main/Coid_19_Status_Tracker_with_Interactive_Visualuzations.ipynb) in goole colab.
 
 ## About The Data
 - Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data
@@ -50,4 +50,7 @@ This is a mini projects about Live Covid 19 data analysis &amp; interactive visu
  - https://plotly.com/python/
  - https://datacatalog.worldbank.org/dataset/world-bank-official-boundaries
  - https://github.com/owid/covid-19-data
+
+## License Info
+- Use only for education purposes 
 
